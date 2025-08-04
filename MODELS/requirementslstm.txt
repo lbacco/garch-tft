@@ -1,0 +1,6 @@
+numpy
+pandas
+keras_tuner
+tensorflow==2.9.3
+pysqlite3-binary
+urllib3<2.0

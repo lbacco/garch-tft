@@ -1,0 +1,4 @@
+=== TRAINING LOG ===
+Inizio: 2025-02-25 19:00:03
+Comando eseguito: 
+-------------------
